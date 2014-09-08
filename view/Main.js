@@ -1,3 +1,4 @@
+//Esse e o meu arquivo principal
 Ext.define('Tocadobicho.view.Main', {
     extend: 'Ext.tab.Panel',
     xtype: 'main',
