@@ -2,7 +2,7 @@
 Ext.define('Tocadobicho.view.Main', {
     extend: 'Ext.tab.Panel',
     xtype: 'main',
-
+    //TESTE
     requires: [
         'Ext.TitleBar',
         'Ext.Video',
